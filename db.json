@@ -26,28 +26,28 @@
       "color": "grey",
       "price":"12000000"
   }
-],
-     "Tayota Carolla": [
+  ],
+  "Tayota Highlander": [
   {
      "id": 1,
-     "title": "Tayota Carolla",
+     "title": "Tayota Highlander",
       "year":"2019",
       "color": "black",
-      "price":"6000000"
+      "price":"12000000"
   },
   {
      "id": 2,
-     "title": "Tayota Carolla",
+     "title": "Tayota Highlander",
       "year":"2020",
       "color": "black",
-      "price":"7000000"
+      "price":11000000"
   },
    {
      "id": 3,
-     "title": "Tayota Carolla",
+     "title": "Tayota Highlander",
       "year":"2020",
       "color": "red",
-      "price":"7000000"
+      "price":"10000000"
   }
   ],
    "Tayota Camry 50": [
