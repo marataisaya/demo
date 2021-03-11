@@ -4,6 +4,44 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "login": [
+    {
+      "email": "201131@astanait.edu.kz",
+        "password": "Aisaya2@"
+    },
+    {
+        "email":"296532@astanait.edu.kz",
+        "password": "Ardak8@" 
+    },
+    {
+      "email":"285462@astanait.edu.kz",
+       "password": "Shyngys6@"
+    },
+    {
+      "email":"201865@astanait.edu.kz",
+      "password": "Aibek6@"
+    },
+    {
+      "email": "206512@astanait.edu.kz",
+       "password": "Zhasulan8@"
+    },
+    {
+      "email":"685255@astanait.edu.kz",
+       "password":"Moldir3@"
+    },
+    {
+        "email": "265898@astanait.edu.kz",
+        "password": "Adeliya5@"
+    },
+    {
+      "email": "289512@astanait.edu.kz",
+        "password": "Dariga5@"
+    },
+    {
+       "email":"208745@astanait.edu.kz",
+       "password": "Asem9@"
+    } 
+    ],
   "registration": [
       {
         "username": "Aisaya",
