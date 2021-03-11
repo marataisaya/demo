@@ -4,6 +4,29 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
+  "Tayota Camry 70": [
+  {
+     "id": 1,
+     "title": "Tayota Camry 70",
+      "year":"2019",
+      "color": "white",
+      "price":"12000000"
+  },
+  {
+     "id": 2,
+     "title": "Tayota Camry 70",
+      "year":"2020",
+      "color": "black",
+      "price":"13000000"
+  },
+   {
+     "id": 3,
+     "title": "Tayota Camry 70",
+      "year":"2020",
+      "color": "grey",
+      "price":"12000000"
+  }
+],
    "Tayota Camry 50": [
     {
       "id": 1,
