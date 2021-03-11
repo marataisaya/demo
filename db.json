@@ -4,29 +4,6 @@
     { "id": 2, "title": "Post 2" },
     { "id": 3, "title": "Post 3" }
   ],
-   "Tayota Carolla": [
-  {
-     "id": 1,
-     "title": "Tayota Carolla",
-      "year":"2019",
-      "color": "black",
-      "price":"6000000"
-  },
-  {
-     "id": 2,
-     "title": "Tayota Carolla",
-      "year":"2020",
-      "color": "black",
-      "price":"7000000"
-  },
-   {
-     "id": 3,
-     "title": "Tayota Carolla",
-      "year":"2020",
-      "color": "red",
-      "price":"7000000"
-  }
-  ],
   "Tayota Camry 70": [
   {
      "id": 1,
