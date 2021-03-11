@@ -11,7 +11,114 @@
   "profile": {
     "name": "typicode"
   },
-  "car":{
-  "namee":"go"
+  {
+  "Tayota Camry 40": [
+    {
+      "id": 1,
+      "model": "Tayota Camry 40",
+      "year":"2017",
+      "color": "gold",
+      "price":"8000000"
+    },
+    {
+      "id": 2,
+      "model": "Tayota Camry 40",
+      "year":"2015",
+      "color": "black",
+      "price":"7500000"
+    },
+    {
+      "id": 3,
+     "title": "Tayota Camry 40",
+      "year":"2019",
+      "color": "white",
+      "price":"9000000"
+    }
+  ],
+  "Tayota Camry 50": [
+    {
+      "id": 1,
+      "title": "Tayota Camry 50",
+      "year":"2018",
+      "color": "black",
+      "price":"10000000"
+    },
+    {
+      "id": 2,
+     "title": "Tayota Camry 50",
+      "year":"2018",
+      "color": "gold",
+      "price":"10000000"
+    }
+  ],
+  "Tayota Camry 70": [
+  {
+     "id": 1,
+     "title": "Tayota Camry 70",
+      "year":"2019",
+      "color": "white",
+      "price":"12000000"
+  },
+  {
+     "id": 2,
+     "title": "Tayota Camry 70",
+      "year":"2020",
+      "color": "black",
+      "price":"13000000"
+  },
+   {
+     "id": 3,
+     "title": "Tayota Camry 70",
+      "year":"2020",
+      "color": "grey",
+      "price":"12000000"
   }
+],
+  "Tayota Carolla": [
+  {
+     "id": 1,
+     "title": "Tayota Carolla",
+      "year":"2019",
+      "color": "black",
+      "price":"6000000"
+  },
+  {
+     "id": 2,
+     "title": "Tayota Carolla",
+      "year":"2020",
+      "color": "black",
+      "price":"7000000"
+  },
+   {
+     "id": 3,
+     "title": "Tayota Carolla",
+      "year":"2020",
+      "color": "red",
+      "price":"7000000"
+  }
+],
+  "Tayota Highlander": [
+  {
+     "id": 1,
+     "title": "Tayota Highlander",
+      "year":"2019",
+      "color": "black",
+      "price":"12000000"
+  },
+  {
+     "id": 2,
+     "title": "Tayota Highlander",
+      "year":"2020",
+      "color": "black",
+      "price":11000000"
+  },
+   {
+     "id": 3,
+     "title": "Tayota Highlander",
+      "year":"2020",
+      "color": "red",
+      "price":"10000000"
+  }
+  ]
+}
 }
