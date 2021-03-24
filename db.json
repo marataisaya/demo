@@ -1,6 +1,7 @@
 {
   "registration": [
       {
+        "id": 1,
         "username": "Aisaya",
         "email": "201131@astanait.edu.kz",
         "password": "Aisaya2@",
@@ -9,15 +10,18 @@
     ],
   "login": [
     {
+      "id": 1,
       "email": "201131@astanait.edu.kz",
         "password": "Aisaya2@"
     },
 
      {
+       "id": 2,
         "email": "206595@astanait.edu.kz",
         "password": "Adilet2@"
       },
     {
+      "id": 3,
         "email":"296532@astanait.edu.kz",
         "password": "Ardak8@" 
     }
